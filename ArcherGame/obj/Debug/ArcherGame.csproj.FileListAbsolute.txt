@@ -1,0 +1,8 @@
+C:\Users\mensh\source\repos\ArcherGame\ArcherGame\bin\Debug\ArcherGame.exe.config
+C:\Users\mensh\source\repos\ArcherGame\ArcherGame\bin\Debug\ArcherGame.exe
+C:\Users\mensh\source\repos\ArcherGame\ArcherGame\bin\Debug\ArcherGame.pdb
+C:\Users\mensh\source\repos\ArcherGame\ArcherGame\obj\Debug\ArcherGame.csproj.AssemblyReference.cache
+C:\Users\mensh\source\repos\ArcherGame\ArcherGame\obj\Debug\ArcherGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\mensh\source\repos\ArcherGame\ArcherGame\obj\Debug\ArcherGame.csproj.CoreCompileInputs.cache
+C:\Users\mensh\source\repos\ArcherGame\ArcherGame\obj\Debug\ArcherGame.exe
+C:\Users\mensh\source\repos\ArcherGame\ArcherGame\obj\Debug\ArcherGame.pdb
